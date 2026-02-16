@@ -144,7 +144,7 @@ INX-Employee-Performance/
 ## 🔷 How to Run
 
 Clone the repository
-git clone <repository-link>
+git clone <https://github.com/Lucky-sa/Predictive-HR-Analytics-Employee-Performance-Modeling.git>
 
 Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
