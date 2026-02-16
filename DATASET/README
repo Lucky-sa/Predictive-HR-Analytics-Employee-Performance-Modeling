@@ -1,1 +1,18 @@
 
+## 🔷 Dataset Information
+
+Dataset: INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls
+
+Records: ~1200 employees
+
+Features: Demographic, professional, compensation, and satisfaction metrics
+
+Target Variable: PerformanceRating
+
+Target Classes:
+
+2 → Low Performance
+
+3 → Good Performance
+
+4 → Excellent Performance
