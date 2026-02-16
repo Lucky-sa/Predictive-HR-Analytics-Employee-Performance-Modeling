@@ -133,9 +133,12 @@ Random Forest	Best Performing
 ## 🔷 Repository Structure
 INX-Employee-Performance/
 │
-├── INX_Employee_Performance_Analysis_And_Prediction.ipynb
-├── Dataset/
+├── CODE/
+│   └── INX_Employee_Performance_Analysis_And_Prediction.ipynb
+│   └── README
+├── DATASET/
 │   └── INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls
+│   └── README
 └── README.md
 
 ## 🔷 How to Run
